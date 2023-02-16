@@ -22,35 +22,34 @@ Admin Application
   * Add and update packages and menus picture.
 
 ## Demo
+User Application
 <br>
 <p align="center">
-  <img src="docs/1.PNG" width="25%">
-  <img src="docs/2.PNG" width="25%">
-  <img src="docs/3.PNG" width="25%">
+  <img src="docs/1.gif" width="25%">
+  <img src="docs/2.gif" width="25%">
+  <img src="docs/3.gif" width="25%">
 </p>
 <br>
 
 <br>
 <p align="center">
-  <img src="docs/4.PNG" width="25%">
-  <img src="docs/5.PNG" width="25%">
+  <img src="docs/4.gif" width="25%">
+  <img src="docs/5.gif" width="25%">
+</p>
+<br>
+
+Admin Application
+<br>
+<p align="center">
   <img src="docs/6.PNG" width="25%">
+  <img src="docs/7.PNG" width="25%">
 </p>
 <br>
 
 <br>
 <p align="center">
-  <img src="docs/7.PNG" width="25%">
   <img src="docs/8.PNG" width="25%">
   <img src="docs/9.PNG" width="25%">
-</p>
-<br>
-
-<br>
-<p align="center">
-  <img src="docs/10.PNG" width="25%">
-  <img src="docs/11.PNG" width="25%">
-  <img src="docs/12.PNG" width="25%">
 </p>
 <br>
 
