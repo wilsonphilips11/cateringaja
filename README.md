@@ -41,15 +41,15 @@ User Application
 Admin Application
 <br>
 <p align="center">
-  <img src="docs/6.PNG" width="25%">
-  <img src="docs/7.PNG" width="25%">
+  <img src="docs/6.jpg" width="25%">
+  <img src="docs/7.jpg" width="25%">
 </p>
 <br>
 
 <br>
 <p align="center">
-  <img src="docs/8.PNG" width="25%">
-  <img src="docs/9.PNG" width="25%">
+  <img src="docs/8.jpg" width="25%">
+  <img src="docs/9.jpg" width="25%">
 </p>
 <br>
 
