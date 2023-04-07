@@ -1,5 +1,5 @@
 ## Cateringaja
-Food ordering app for on-demand, catering, and buffet services build using Ionic (Angular) and Laravel.
+Food ordering app for on-demand, catering subscription, and buffet services provided by Cateringaja build using Laravel and Ionic Angular.
 
 ## Features
 User Application
